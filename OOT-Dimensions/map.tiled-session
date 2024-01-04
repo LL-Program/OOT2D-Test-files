@@ -1,0 +1,25 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "assets/lostwoods.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/lukas/Desktop/OOT-Dimensions/assets",
+    "openFiles": [
+        "assets/lostwoods.tsx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "assets/lostwoods.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
